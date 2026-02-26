@@ -220,6 +220,7 @@ February 2026
 Built with curiosity, an Android phone, and Pydroid 3.  
 No ML background. No team. No funding. Just time and questions.
 
+SYNAPSE was built for medical, environmental, and humanitarian applications. The author's intent is to help people, not harm them. Users bear full responsibility for ethical and lawful use.
 ---
 
 ## License
